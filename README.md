@@ -1,2 +1,1 @@
-# TheSpacePlaceMC-Wiki
-This is the public wiki for The Space Place MC! More info at: https://discord.gg/HDrxwp4grq . This project also includes some plugins and data (check the README file for more info.)
+This repository contains a wiki (https://github.com/cycooYT/TheSpacePlaceMC-Wiki/wiki), some plugins, (https://github.com/cycooYT/TheSpacePlaceMC-Wiki) and some data. Contact cycoo4#4444 on discord for more info.
